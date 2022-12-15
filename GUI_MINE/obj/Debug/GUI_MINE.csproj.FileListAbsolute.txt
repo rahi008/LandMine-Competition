@@ -1,0 +1,68 @@
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\bin\Debug\GUI_MINE.exe.config
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\bin\Debug\GUI_MINE.exe
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\bin\Debug\GUI_MINE.pdb
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.csprojResolveAssemblyReference.cache
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.Form1.resources
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.Properties.Resources.resources
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.csproj.GenerateResource.Cache
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.exe
+c:\users\rahik\onedrive\documents\visual studio 2015\Projects\GUI_MINE\obj\Debug\GUI_MINE.pdb
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\bin\Debug\GUI_MINE.exe.config
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.exe
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.pdb
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.csprojResolveAssemblyReference.cache
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.Form1.resources
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.Properties.Resources.resources
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\obj\Debug\GUI_MINE.csproj.GenerateResource.Cache
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\bin\Debug\GUI_MINE.exe
+C:\Users\ehsan\Downloads\Compressed\GUI_MINE\GUI_MINE\bin\Debug\GUI_MINE.pdb
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\GUI_MINE.exe.config
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.exe
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.pdb
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\GUI_MINE.exe
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\GUI_MINE.pdb
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\Emgu.CV.World.dll
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\ZedGraph.dll
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\Emgu.CV.World.pdb
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\Emgu.CV.World.xml
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\ZedGraph.xml
+C:\Users\rahik\Desktop\GUI_MINE\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.csprojResolveAssemblyReference.cache
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.Form1.resources
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.Properties.Resources.resources
+C:\Users\rahik\Desktop\GUI_MINE\obj\Debug\GUI_MINE.csproj.GenerateResource.Cache
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.exe.config
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.exe
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.pdb
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.exe
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.pdb
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.dll
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\ZedGraph.dll
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.xml
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\ZedGraph.xml
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.csprojResolveAssemblyReference.cache
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.Form1.resources
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.Properties.Resources.resources
+C:\Users\Kaiser\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.csproj.GenerateResource.Cache
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.exe.config
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.exe
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\GUI_MINE.pdb
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.dll
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\ZedGraph.dll
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.pdb
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\Emgu.CV.World.xml
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\ZedGraph.xml
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.csprojResolveAssemblyReference.cache
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.Form1.resources
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.Properties.Resources.resources
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.csproj.GenerateResource.Cache
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.csproj.CoreCompileInputs.cache
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.exe
+C:\Users\rahik\OneDrive\Landmine\GUI_MINE\obj\Debug\GUI_MINE.pdb
